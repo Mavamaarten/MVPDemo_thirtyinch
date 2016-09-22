@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="comments_label">%1$s comments</string>
+</resources>
